@@ -1,4 +1,4 @@
-module multicompose
+module github/mates182/multicompose
 
 go 1.23.4
 
